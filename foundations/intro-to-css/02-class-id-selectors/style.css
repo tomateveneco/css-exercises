@@ -1,0 +1,19 @@
+.texto-prueba {
+    background-color: #FFB6C1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.texto-grande {
+    font-size: 24px;
+}
+
+#texto2 {
+    color: #00FF;
+    font-size: 36px;
+}
+
+.texto-grande#texto4 {
+    color: black;
+    background-color: #90ee90;
+    font-weight: bold;
+}
